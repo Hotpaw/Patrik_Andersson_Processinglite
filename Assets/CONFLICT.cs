@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class CONFLICT : MonoBehaviour
 {
-
-    int bobby = 1213;
-
+	int bobby = 2;
+	int superNumber = 99999;
+	float smallNumber = 0.01f;
     // Start is called before the first frame update
     void Start()
     {
