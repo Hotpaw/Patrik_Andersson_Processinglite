@@ -7,7 +7,7 @@ public class CONFLICT : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // CREATE SKYNET
+        // CREATE SKYNET gwegew
     }
 
     // Update is called once per frame
